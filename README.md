@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=paalmijs&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Building+apps+%26+learning+platforms&descSize=18&descAlignY=60" alt="header" width="100%" />
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=520&lines=Swift+%7C+JavaScript+%7C+Python;Building+Moveio+and+Codera;Learning+in+public+%F0%9F%9A%80" alt="typing animation" />
 
 <img src="https://komarev.com/ghpvc/?username=paalmijs&label=Profile+views&color=0e75b6&style=flat" alt="profile views" />
